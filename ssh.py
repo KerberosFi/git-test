@@ -1,0 +1,1 @@
+print("versio 6?")
